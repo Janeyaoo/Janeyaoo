@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Janeyaoo，a second-year Ph.D. student at the University of Chinese Academy of Sciences and BIMSA.
-- 👀 I am interested in topological Network resilience，topological data analysis，persistence homology application.
+- 👀 I am interested in Network resilience，topological data analysis，persistence homology application.
 - 🌱 I am working on integrating topological information into the framework for addressing network dismantling and related combinatorial optimization problems.
 - 💞 I am exploring the training of diffusion models integrated with topological data analysis to approximate solutions to combinatorial optimization problems such as the TSP and NDP.
 - 📫 yaojian@bimsa.cn
